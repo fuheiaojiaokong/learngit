@@ -1,6 +1,7 @@
 new file 
 second file in github
 hello!
+bug is clean!!
 my name is bao
 a new branch
 another branch
